@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Host Vulnerability Scanning"
+    id="id-abf7d0e0f1d94250846db5136c084147">
+  <properties
+      key="scanning_type"
+      value="Host Defender"/>
+</archimate:ApplicationService>

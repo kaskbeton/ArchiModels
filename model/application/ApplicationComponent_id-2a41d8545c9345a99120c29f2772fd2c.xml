@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prisma Cloud Host Defender Agent"
+    id="id-2a41d8545c9345a99120c29f2772fd2c">
+  <properties
+      key="scanning_type"
+      value="Host Defender"/>
+</archimate:ApplicationComponent>

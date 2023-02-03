@@ -1,0 +1,14 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-be1c4bf014a843d08ec4b86218a6b40d">
+  <properties
+      key="scanning_type"
+      value="Host Defender"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2a41d8545c9345a99120c29f2772fd2c.xml#id-2a41d8545c9345a99120c29f2772fd2c"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-abf7d0e0f1d94250846db5136c084147.xml#id-abf7d0e0f1d94250846db5136c084147"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prisma Cloud Container Defender Agent NM-COMMON"
+    id="id-2234fbfa737549fab960871aeaaa0b83">
+  <properties
+      key="defender type"
+      value="Container Defender"/>
+</archimate:ApplicationComponent>

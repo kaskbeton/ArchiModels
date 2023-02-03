@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VMTOOLS3"
+    id="id-d39fbbb3c2e441f8b18eff764c224a61">
+  <properties
+      key="scanning_type"
+      value="Host Defender"/>
+</archimate:Node>
